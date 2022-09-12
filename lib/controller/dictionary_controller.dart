@@ -10,7 +10,7 @@ import 'package:http/http.dart';
 class DictionaryController extends GetxController {
   Response? response;
   String url = "https://owlbot.info/api/v4/dictionary/";
-  String token = "c2c25d1b1b1d85eb9a38f294002b5ae377edad98";
+  String token = "your api here";
 
   TextEditingController dictionaryText = TextEditingController();
 
