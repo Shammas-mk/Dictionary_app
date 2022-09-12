@@ -1,16 +1,11 @@
 # dictonaryapp
 
-A new Flutter project.
+with the help of Owlbot Dictionary API 
 
-## Getting Started
+https://owlbot.info/
 
-This project is a starting point for a Flutter application.
+# Owlbot Dictionary API:
 
-A few resources to get you started if this is your first Flutter project:
+Owlbot searches the internet to index information and making them accessible via HTTP APIs. Currently, it offers an English dictionary API. Web applications or mobile apps can use Owlbot dictionary API to get the definition of English words, and in some cases, pronunciation, picture, example sentence, and emoji if available.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
