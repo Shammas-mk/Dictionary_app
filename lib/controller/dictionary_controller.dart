@@ -32,7 +32,7 @@ class DictionaryController extends GetxController {
         headers: {"Authorization": "Token $token"});
     _streamController.add(json.decode(response.body));
     log("showing data ========================${response.body}");
-    error = response.body;
+   
   }
 
   @override
